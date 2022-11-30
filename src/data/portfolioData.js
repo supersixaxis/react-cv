@@ -28,12 +28,12 @@ export const portfolioData = [
   },
   {
     id: 4,
-    name: 'laboriosam.fr',
-    languages: ['javascript','php','react'],
-    languagesIcons: ['fab fa-js','fab fa-php','fab fa-react'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project4.JPG'
+    name: 'Covid Clicker',
+    languages: ['javascript','css'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
+    source: 'https://supersixaxis.github.io/covid-clicker/',
+    info: 'Petit clicker sur navigateur sur le thème du covid.',
+    picture: './media/project4.png'
   },
   {
     id: 5,

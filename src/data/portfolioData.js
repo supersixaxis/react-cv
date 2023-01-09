@@ -41,7 +41,7 @@ export const portfolioData = [
     languages: ['javascript'],
     languagesIcons: ['fab fa-js'],
     source: 'https://github.com/supersixaxis/P5-Dev-Web-Kanap',
-    info: 'Programmation de toute la partie javascript et fonctionnalités du site : les canapés disponbiel, choisir la couleur, le panier etc..',
+    info: 'Programmation de toute la partie javascript et fonctionnalités du site : les canapés disponbibles, choisir la couleur, le panier etc..',
     picture: './media/logo.png'
   },
   {

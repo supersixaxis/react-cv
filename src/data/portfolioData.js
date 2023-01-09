@@ -37,20 +37,20 @@ export const portfolioData = [
   },
   {
     id: 5,
-    name: 'repudiante.com',
-    languages: ['javascript','css'],
-    languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project5.JPG'
+    name: 'Site web kanap',
+    languages: ['javascript'],
+    languagesIcons: ['fab fa-js'],
+    source: 'https://github.com/supersixaxis/P5-Dev-Web-Kanap',
+    info: 'Programmation de toute la partie javascript et fonctionnalités du site : les canapés disponbiel, choisir la couleur, le panier etc..',
+    picture: './media/logo.png'
   },
   {
     id: 6,
-    name: 'test.io',
-    languages: ['javascript','react', 'css'],
-    languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
+    name: 'Morpion Game',
+    languages: ['javascript', 'css'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
+    source: 'https://supersixaxis.github.io/Morpion-Game/',
+    info: 'Mon premier jeu javascript, le classique tic tac toe',
     picture: './media/project6.JPG'
   },
 ]
